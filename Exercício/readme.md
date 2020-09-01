@@ -47,7 +47,7 @@ Exemplo de instâncias:
 
 **Survey: leituras realizadas** 
 
-* taken	: idenficação única
+* taken	: idenficação do site
 * person	: id da pessoa que esta realizando a coleta 
 * quant	 : quantitativo e indicativo do que está sendo medido. Valores possíveis rad, sal, and temp que referem-se a ‘Radiação’, ‘salinidade’ e ‘temperatura’
 * reading : leitura 
