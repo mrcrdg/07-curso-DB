@@ -26,7 +26,7 @@ pb	| Frank	| Pabodie |
 * long : longitude
 
 Exemplo de instâncias:
-
+ 
 |name|	lat|	long|
 |----------|:-------------:|------:|
 |DR-1	|-49.85	|-128.57
