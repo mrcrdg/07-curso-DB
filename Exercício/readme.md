@@ -4,7 +4,7 @@ Crie um banco de dados com as tabelas a seguir:
 
 Para cada tabela crie os seguinte atributos
 
-Person: pessoa que realiza leituras
+** Person: pessoa que realiza leituras** 
 
 * id : identificação única	
 * personal	: primeiro nome
@@ -17,7 +17,7 @@ Exemplo de instâncias:
 dyer	| William	| Dyer|
 pb	| Frank	| Pabodie |
 
-Site: localizações onde leituras foram realizadas
+** Site: localizações onde leituras foram realizadas ** 
 
 * name : nome do lugar	
 * lat	 : latitude
@@ -30,7 +30,7 @@ Exemplo de instâncias:
 |DR-1	|-49.85	|-128.57
 |DR-3|	-47.15|	-126.72
 
-Visited: quando as leituras foram realizadas
+** Visited: quando as leituras foram realizadas ** 
 
 * id : identificação única	
 * site	: site visitado
@@ -43,7 +43,7 @@ Exemplo de instâncias:
 |619	|DR-1	|1927-02-08 |
 |622	|DR-1	|1927-02-10 |
 
-Survey: leituras realizadas
+**  Survey: leituras realizadas ** 
 
 * taken	: idenficação única
 * person	: id da pessoa que esta realizando a coleta 
