@@ -12,9 +12,10 @@ Person: pessoa que realiza leituras
 
 Exemplo de instâncias:
 
-**id	personal	family**<p>
-dyer	William	Dyer<p>
-pb	Frank	Pabodie<p>
+|**id	|personal	|family**|
+|----------|:-------------:|------:|
+dyer	| William	| Dyer|
+pb	| Frank	| Pabodie |
 
 Site: localizações onde leituras foram realizadas
 
