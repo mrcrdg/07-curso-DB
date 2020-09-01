@@ -40,8 +40,8 @@ Exemplo de instâncias:
 
 |id	|site|	dated|
 |----------|:-------------:|------:|
-|619	|DR-1	|1927-02-08 
-|622	|DR-1	|1927-02-10 
+|619	|DR-1	|1927-02-08 |
+|622	|DR-1	|1927-02-10 |
 
 Survey: leituras realizadas
 
@@ -54,6 +54,6 @@ Exemplo de instâncias:
 
 |taken|	person	|quant|	reading|
 |----------|:-------------:|------:|
-|619|	dyer|	rad|	9.82 
-|619	|dyer	|sal	|0.13 
-|622	|dyer|	rad	|7.8 
+|619|	dyer|	rad|	9.82 |
+|619	|dyer	|sal	|0.13 |
+|622	|dyer|	rad	|7.8 |
