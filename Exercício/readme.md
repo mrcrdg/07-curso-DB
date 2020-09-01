@@ -53,7 +53,7 @@ Survey: leituras realizadas
 Exemplo de instâncias:
 
 |taken|	person	|quant|	reading|
-|----------|:-------------:|------:|
+|----------|:-------------:|------:|------:|
 |619|	dyer|	rad|	9.82 |
 |619	|dyer	|sal	|0.13 |
 |622	|dyer|	rad	|7.8 |
