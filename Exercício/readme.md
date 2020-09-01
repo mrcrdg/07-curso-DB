@@ -12,7 +12,7 @@ Person: pessoa que realiza leituras
 
 Exemplo de instâncias:
 
-|**id	|personal	|family**|
+|id	|personal	|family|
 |----------|:-------------:|------:|
 dyer	| William	| Dyer|
 pb	| Frank	| Pabodie |
@@ -25,9 +25,10 @@ Site: localizações onde leituras foram realizadas
 
 Exemplo de instâncias:
 
-**name	lat	long** <p>
-DR-1	-49.85	-128.57<p>
-DR-3	-47.15	-126.72<p>
+|name|	lat|	long|
+|----------|:-------------:|------:|
+|DR-1	|-49.85	|-128.57
+|DR-3|	-47.15|	-126.72
 
 Visited: quando as leituras foram realizadas
 
@@ -37,9 +38,10 @@ Visited: quando as leituras foram realizadas
 
 Exemplo de instâncias:
 
-**id	site	dated** <p>
-619	DR-1	1927-02-08 <p> 
-622	DR-1	1927-02-10 <p>
+|id	|site|	dated|
+|----------|:-------------:|------:|
+|619	|DR-1	|1927-02-08 
+|622	|DR-1	|1927-02-10 
 
 Survey: leituras realizadas
 
@@ -50,7 +52,8 @@ Survey: leituras realizadas
 
 Exemplo de instâncias:
 
-**taken	person	quant	reading** <p>
-619	dyer	rad	9.82 <p>
-619	dyer	sal	0.13 <p>
-622	dyer	rad	7.8 <p>
+|taken|	person	|quant|	reading|
+|----------|:-------------:|------:|
+|619|	dyer|	rad|	9.82 
+|619	|dyer	|sal	|0.13 
+|622	|dyer|	rad	|7.8 
