@@ -2,7 +2,7 @@ Exercício baseado em http://swcarpentry.github.io/
 
 Crie um banco de dados com as tabelas a seguir:
 
-  ![Banco de Dados survey](modelo-conceitual.png)
+  ![Banco de Dados survey](conceitual.png)
 
 Para cada tabela crie os seguinte atributos
 
