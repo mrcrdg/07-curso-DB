@@ -17,16 +17,16 @@ Site: localizações onde leituras foram realizadas
 * long : longitude
 
 
-Visited: when readings were taken at specific sites.
+Visited: quando as leituras foram realizadas
 
 * id : identificação única	
 * site	: site visitado
 * date : data da visita
 
-Survey: the actual readings. The field quant is short for quantitative and indicates what is being measured. 
-Values are rad, sal, and temp referring to ‘radiation’, ‘salinity’ and ‘temperature’, respectively.
+Survey: leituras realizadas
 
 * taken	: idenficação única
 * person	: id da pessoa que esta realizando a coleta 
 * quant	 : quantitativo e indicativo do que está sendo medido. Valores possíveis rad, sal, and temp que referem-se a ‘Radiação’, ‘salinidade’ e ‘temperatura’
 * reading : leitura 
+
