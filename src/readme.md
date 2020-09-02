@@ -46,14 +46,24 @@ import MySQLdb
 db = MySQLdb.connect(host="127.0.0.1",    
                      user="silvio",         
                      passwd="1234",  
-                     db="dbVendas")       
+                     db="db1")       
 
 cur = db.cursor()
 
-cur.execute("SELECT * FROM cliente")
+cur.execute("INSERT INTO Person VALUES('dyer2','William222','Dyer222');")
+db.commit()
 
-for row in cur.fetchall():
-    print (row[0])
+cur.execute("SELECT * FROM Person")
+
+l=cur.fetchall()
+
+print(type(l))
+
+for row in l:
+    print (row[0],row[1],row[2])
+
+
 
 db.close()
+
 ```
