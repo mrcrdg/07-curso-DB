@@ -59,3 +59,19 @@ Exemplo de instâncias:
 |619|	dyer|	rad|	9.82 |
 |619	|dyer	|sal	|0.13 |
 |622	|dyer|	rad	|7.8 |
+
+## Exercício:
+Implemente um programa em Python que realiza as seguintes funções
+* Cadastro de linhas com valores aleatórios em cada tabela
+* Uma função de cadastro para cada tabela (pelo terminal) usando comando input
+* Consultas 
+  * Listar quantidade de visitas que cada site recebeu
+  * Listar sites que nao receberam visitas
+  * Listar métricas que foram observadas na tabela survey
+  * Listar pessoas que fizeram mais de dois levantamentos 
+  * Listar pessoas que o sobrenome possua DYR no meio da palvra
+  * Listar visitacoes a uma lista de sites passados como parâmetro
+  * verifique quantas linhas possuem valor nulo na coluna quant na tabela survey
+  * retorne a media de lat lon utilizando como parametro de busca um intervalo de datas
+  * Retorne a quantidade de medições realizadas por cada pessoa na tabela person
+  * retorne a pessoa que tem a maior quantidade de medições de temperatura entre 10 e 30
